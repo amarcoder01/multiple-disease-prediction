@@ -94,3 +94,51 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
+
+ Usage
+Launch the application locally or visit the live app
+
+Enter patient health metrics (e.g., age, glucose level, etc.)
+
+Select the disease model you want to use
+
+View prediction results and associated charts instantly
+
+
+📚 Use Cases
+🏥 Use Case	Description
+👨‍⚕️ Doctors	Early diagnosis and faster second opinion support
+🧪 Medical Researchers	Evaluate predictive performance of models
+📊 Data Scientists	Test and benchmark ML models on medical datasets
+🏫 Academic Learning	Demonstrate practical healthcare ML implementati
+
+🤝 Contributing
+Contributions are welcome!
+
+Fork this repo
+
+Create your branch: git checkout -b feature/your-feature-name
+
+Commit your changes: git commit -m "Add new feature"
+
+Push to your fork: git push origin feature/your-feature-name
+
+Open a pull request 🚀
+
+📬 Contact
+Author: Amar Pawar
+
+📧 Email: amar01pawar80@gmail.com
+
+🔗 GitHub: @amarcoder01
+
+💼 LinkedIn: Amar Pawar
+
+
+
+📄 License
+This project is licensed under the MIT License.
+Feel free to use, modify, and distribute it.
+
+
