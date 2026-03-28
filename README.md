@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Advanced Health Assistant AI
+#  Advance Health Assistant AI
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue?style=for-the-badge&logo=semver" alt="Version"/>
